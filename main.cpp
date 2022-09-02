@@ -61,43 +61,43 @@ Sub Object 1: Steering Wheel
         
 Sub Object 2: Instrument Cluster
     Name 4 things you'll find on the:   Instrument Cluster
-        1)
-        2)
-        3)
-        4)
+        1) speed
+        2) RPM
+        3) gear identifier
+        4) gas level
     Name 3 things you can do with the:   Instrument Cluster
-        1)
-        2)
-        3)
+        1) check gas level
+        2) see how fast you are going
+        3) see which directional you have chosen
     
 Sub Object 3: Environment Controls
     Name 3 things you'll find on the:    Environment Controls
-        1)
-        2)
-        3)
+        1) fan level
+        2) on and off button
+        3) temp control
     Name 3 things you can do with the:   Environment Controls
-        1)
-        2)
-        3)
+        1) make inside cooler
+        2) make inside hotter
+        3) control fan level
 
 Sub Object 4: Infotainment System
     Name 3 things you'll find on the:    Infotainment System
-        1)
-        2)
-        3)
+        1) navigation
+        2) phone libray
+        3) music libray
     Name 3 things you can do with the:   Infotainment System
-        1)
-        2)
-        3)
+        1) enter a destination
+        2) change the radio frequency
+        3) choose a contact to call
 
 Sub Object 5: Seat 
     Name 3 things you'll find on the:    Seat
-        1)
-        2)
-        3)
+        1) leather
+        2) back adjustment
+        3) head rest
     Name 2 things you can do with the:   Seat
-        1)
-        2)
+        1) sit
+        2) recline
 */
 
 /*
